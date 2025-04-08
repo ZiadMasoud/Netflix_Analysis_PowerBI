@@ -18,7 +18,7 @@ The dashboard includes the following visual elements:
 
 ## 📸 Dashboard Screenshot
 
-![Netflix Dashboard](./assets/netflix_dashboard.png)
+![Netflix Dashboard](/DashBoard.png.png)
 
 
 ---
